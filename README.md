@@ -1,7 +1,3 @@
-
-Here's a README file content that explains the three files in your project, GroupChatPy:
-
-GroupChatPy
 GroupChatPy is a Python application that enables users to create and join secure, real-time chat groups using TCP sockets. This README outlines the three primary components of the project: client.py, server.py, and the design document.
 
 Files in the Project
