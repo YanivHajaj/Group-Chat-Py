@@ -8,6 +8,7 @@ Connecting to the server with an IP address and port.
 Choosing to join an existing group or create a new group.
 Handling user input for group selection and messages.
 Sending and receiving messages in real-time.
+
 2. server.py
 The server script manages all clients' connections, group creations, and message transmissions. Key functionalities include:
 
@@ -16,7 +17,8 @@ Handling different client requests such as joining or creating groups.
 Storing group information, including passwords for access control.
 Broadcasting messages to group members.
 Managing client disconnections and maintaining group integrity.
-3. server and clients in python yaniv hajaj ori glam.docx
+
+3. docx
 This document provides a detailed theoretical background and an overview of the project implementation. It describes:
 
 The use of TCP and UDP protocols in the application.
